@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/MIHALIS_PC/Desktop/BarbershopApp/src/view/ChangeAppointmentPanel.java</file>
+            <file>file:/C:/Users/MIHALIS_PC/Desktop/BarbershopApp/src/view/ContactUsPanel.java</file>
+            <file>file:/C:/Users/MIHALIS_PC/Desktop/BarbershopApp/src/view/MainFrame.java</file>
+            <file>file:/C:/Users/MIHALIS_PC/Desktop/BarbershopApp/src/util/DBConnection.java</file>
+            <file>file:/C:/Users/MIHALIS_PC/Desktop/BarbershopApp/src/dao/ServiceDAO.java</file>
+            <file>file:/C:/Users/MIHALIS_PC/Desktop/BarbershopApp/src/model/Service.java</file>
+            <file>file:/C:/Users/MIHALIS_PC/Desktop/BarbershopApp/src/view/DeleteAppointmentPanel.java</file>
+            <file>file:/C:/Users/MIHALIS_PC/Desktop/BarbershopApp/src/model/Appointment.java</file>
+            <file>file:/C:/Users/MIHALIS_PC/Desktop/BarbershopApp/src/dao/AppointmentDAO.java</file>
+            <file>file:/C:/Users/MIHALIS_PC/Desktop/BarbershopApp/src/view/ViewServicesPanel.java</file>
+            <file>file:/C:/Users/MIHALIS_PC/Desktop/BarbershopApp/src/model/Contact.java</file>
+            <file>file:/C:/Users/MIHALIS_PC/Desktop/BarbershopApp/src/dao/ContactDAO.java</file>
+            <file>file:/C:/Users/MIHALIS_PC/Desktop/BarbershopApp/src/view/BookAppointmentPanel.java</file>
+        </group>
+    </open-files>
+</project-private>
